@@ -1,7 +1,7 @@
 # DataMinig_Practices
 DataMining course and implementation of its academic exercises (Tarbiat Modares University)
 
-## Part1
+## Part1 : Movie Ratings
 This dataset {https://files.grouplens.org/datasets/movielens/ml-latest-small.zip} describes 5-star rating and free-text tagging activity from a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.The data are contained in the files links.csv, movies.csv, ratings.csv and tags.csv. All ratings are contained in the file ratings.csv. Each line of this file after the header row represents one rating of one movie by one user, and has the following format:
 
     userId, movieId, rating, timestamp
